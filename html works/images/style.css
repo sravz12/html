@@ -1,0 +1,17 @@
+img{
+   height: px;
+   width: 100%;
+
+}
+
+.bname{
+    color: rgb(17, 16, 16);
+    text-align: center;
+ 
+}
+.pic{
+    width: 50%;
+    height: 100%;
+    background: rgba(200, 255, 0, 0.637);
+    text-align: center;
+}

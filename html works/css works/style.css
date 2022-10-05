@@ -1,0 +1,20 @@
+/* selectors
+
+Tagselector
+idselector
+classselector
+
+
+Tagselector ---> property:value
+
+*/
+h1{
+    color:aqua;
+    border: 1px solid coral;
+}
+#id_hone{
+    color:#521f29;
+}
+.hone{
+    color: black;
+}

@@ -1,0 +1,22 @@
+.parent{
+    width: 800px;
+    height: 600px;
+    background-color: black;
+}
+.child{
+    height: 200px;
+    width: 400px;
+    border: 1px solid palegreen;
+    color: white;
+   
+}
+
+.child-one{
+    background-color: gray;
+}
+.child-two{
+    background-color:gold ;
+}
+.child-three{
+    background-color: silver;
+}

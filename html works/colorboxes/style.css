@@ -1,0 +1,66 @@
+.color{
+    height: 50px;
+    width: 50px;
+    border: 1px solid rgb(95, 186, 16);
+    float: left;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+h2{
+    color: white;
+    text-align: center;
+    margin-left: -96px;
+}
+body{
+  background-color:black;
+}
+.color-one{
+    background-color: aqua;
+  
+}
+.color-two{
+    background-color: blue;
+}
+.color-three{
+    background-color: blueviolet;
+}
+.color-four{
+    background-color: brown;
+}
+.color-five{
+    background-color: darkgreen;
+}
+.color-six{
+    background-color:gold;
+}
+.color-seven{
+    background-color: darkorange;
+}
+.color-eight{
+    background-color: chocolate;
+}
+.color-nine{
+    background-color: crimson;
+}
+
+.bg{
+    margin-left: auto;
+    margin-right: auto;
+    height: 60px;
+    width: 400px;
+ 
+}
+.bi{
+    margin-left: auto;
+    margin-right: auto;
+    height: 60px;
+    width: 512px;
+}
+.bc{
+    margin-left: auto;
+    margin-right: auto;
+    height: 77px;
+    width: 624px;
+}
+
+
